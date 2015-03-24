@@ -1,0 +1,10 @@
+{
+  "name": "JS_DesignPatterns",
+  "version": "0.0.0",
+  "description": "JS-DesignPatterns",
+  "main": "app.js",
+  "author": {
+    "name": "angelovn",
+    "email": ""
+  }
+}
