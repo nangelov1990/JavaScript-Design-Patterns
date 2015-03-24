@@ -12,8 +12,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>128ab6c9-3b05-481e-9b27-30f198a50478</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>
-    </StartupFile>
+    <StartupFile>TODO List Module\scripts\container.js</StartupFile>
     <StartWebBrowser>False</StartWebBrowser>
     <SearchPath>
     </SearchPath>
@@ -34,6 +33,7 @@
     <Content Include="package.json" />
     <Content Include="README.md" />
     <Content Include="TODO List Module\index.html" />
+    <Content Include="TODO List Module\styles\styles.css" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="TODO List Module\" />
@@ -41,7 +41,10 @@
     <Folder Include="TODO List Module\scripts\" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="TODO List Module\scripts\container.js" />
     <Compile Include="TODO List Module\scripts\extendsMethod.js" />
+    <Compile Include="TODO List Module\scripts\item.js" />
+    <Compile Include="TODO List Module\scripts\section.js" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\Node.js Tools\Microsoft.NodejsTools.targets" />
 </Project>
