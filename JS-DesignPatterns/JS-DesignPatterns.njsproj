@@ -42,7 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="TODO List Module\scripts\container.js" />
-    <Compile Include="TODO List Module\scripts\extendsMethod.js" />
+    <Compile Include="TODO List Module\scripts\initial.js" />
     <Compile Include="TODO List Module\scripts\item.js" />
     <Compile Include="TODO List Module\scripts\section.js" />
   </ItemGroup>
